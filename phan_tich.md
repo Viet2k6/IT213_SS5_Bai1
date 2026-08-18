@@ -1,4 +1,4 @@
-Khung làm bài của sinh viên:
+
 
 **Phương án lựa chọn:** Phương án B
 
